@@ -1,6 +1,6 @@
 # 👋 Hello World, I’m Matt!
 - 🎓 I’m a second-year at Carnegie Mellon University studying ECE.
-- 👀 I’m interested in EE, CS, design, chess, track and field, and basketball.
+- 👀 I’m interested in robotics, AI, climate change, design, chess, and track and field.
 - 🧠 I’m currently (re)learning HTML, CSS, and JS.
 - 📫 Reach me at mngaw@andrew.cmu.edu
 - 😄 Pronouns: he/him.
