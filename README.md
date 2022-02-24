@@ -1,6 +1,6 @@
 # 👋 Hello World, I’m Matt!
 - 🎓 I’m a second-year at Carnegie Mellon University studying Electrical & Computer Engineering.
-- 🧠 I’m currently learning Node/Express
+- 🦀 I’m currently learning Rust 
 - 🛠 I’m currently building a chess engine
 - 📫 Reach me at mngaw@andrew.cmu.edu
 - 😄 Pronouns: he/him.
