@@ -1,7 +1,7 @@
 # 👋 Hello World, I’m Matt!
 - 🎓 I’m a rising third-year at Carnegie Mellon University studying Electrical & Computer Engineering.
-- 🦀 I’m currently learning Rust 
-- 🛠 I’m currently building a [RISC240 emulator](https://github.com/mattngaw/em240)
+- 🦀 I’m still learning Rust
+- 🛠 I’m currently building a [Minecraft-inspired game](https://github.com/mattngaw/craftracer)
 - 📫 Reach me at mngaw@andrew.cmu.edu
 - 😄 Pronouns: he/him.
 
