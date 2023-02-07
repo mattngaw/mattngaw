@@ -1,6 +1,6 @@
 # 👋 Hello World, I’m Matt!
 - 🎓 I’m a rising third-year at Carnegie Mellon University studying Electrical & Computer Engineering.
-- 📫 Reach me at me@mattngaw.com
+- 📫 Reach me at mattngaw2002@gmail.com
 - 😄 Pronouns: he/him
 
 ## Social
