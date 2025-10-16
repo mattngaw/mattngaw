@@ -1,3 +1,3 @@
 ```
-MS student at Carnegie Mellon University studying Electrical & Computer Engineering.
+Engineer at Arm, Carnegie Mellon ECE grad
 ```
